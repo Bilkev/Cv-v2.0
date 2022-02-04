@@ -1,0 +1,24 @@
+.avatar {
+  vertical-align: middle;
+  width: auto;
+  height: 200px;
+}
+
+body {
+  background-color: #F5EEDC
+}
+
+hr {
+  width: 3%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
